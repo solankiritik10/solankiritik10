@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ritik Solanki 
 - 👀 I’m interested in Coding stuff
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on YouTube 
-- 📫 How to reach me Instagram @ritik.solankii
+- 📫 How to reach me Instagram @_ursritik
 
 <!---
 solankiritik10/solankiritik10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
