@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding stuff
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on YouTube 
-- 📫 How to reach me Instagram @_ursritik
+- 📫 How to reach me Instagram @_urshritik
 
 <!---
 solankiritik10/solankiritik10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
